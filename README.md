@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Sameera 👋
 
 ### 🚀 About Me
 - 🔭 I’m currently working on **[Project Name]**
@@ -19,8 +19,8 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=radical" alt="Stats Card" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=radical" alt="Top Langs" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=antssanjeewa&show_icons=true&theme=radical" alt="Stats Card" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antssanjeewa&layout=compact&theme=radical" alt="Top Langs" height="150" />
 </p>
 
 ---
