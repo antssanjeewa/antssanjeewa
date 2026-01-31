@@ -1,10 +1,10 @@
 # Hi there, I'm Sameera Sanjeewa 👋 
 
-### 🚀 Full-Stack Developer | Laravel & Vue.js Expert
-I am a Software Engineer with over 6 years of experience building scalable web and cloud-ready applications. My expertise lies in architecting high-performance systems using Laravel, Vue.js, and Docker.
+### 🚀 Full-Stack Developer | Laravel & Vue.js
+I am a Software Engineer with over 6 years of experience building scalable web and cloud-ready applications. My expertise lies in architecting high-performance systems using Laravel, Vue.js.
 
-- 🌱 Expanding my expertise in **AWS cloud architecture** and microservices.
-- 💬 Ask me about **REST API design, database optimization, and CI/CD pipelines**.
+- 🔭 I am currently focusing on building personal projects and sharpening my technical skills.
+- 💬 Ask me about **REST API design, database optimization**.
 - 📫 Reach me at: **antssanjeewa94@gmail.com**.
 
 ---
