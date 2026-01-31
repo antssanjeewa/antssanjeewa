@@ -21,8 +21,8 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=antssanjeewa&show_icons=true&theme=radical&hide_border=true" alt="Sameera's GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antssanjeewa&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=antssanjeewa&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Sameera's GitHub stats" height="170" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=antssanjeewa&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" height="170" />
 </p>
 
 ---
