@@ -19,7 +19,7 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=antssanjeewa&show_icons=true&theme=radical" alt="Stats Card" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=antssanjeewa&show_icons=true&include_all_commits=true&theme=dracula" alt="Stats Card" height="150" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antssanjeewa&layout=compact&theme=radical" alt="Top Langs" height="150" />
 </p>
 
