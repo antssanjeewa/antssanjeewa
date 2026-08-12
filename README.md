@@ -1,38 +1,128 @@
-# Hi there, I'm Sameera Sanjeewa 👋 
+# Sameera Sanjeewa 👋
 
-### 🚀 Full-Stack Developer | Laravel & Vue.js
-I am a Software Engineer with over 6 years of experience building scalable web and cloud-ready applications. My expertise lies in architecting high-performance systems using Laravel, Vue.js.
+### Senior Software Engineer | Laravel & Vue.js
 
-- 🔭 I am currently focusing on building personal projects and sharpening my technical skills.
-- 💬 Ask me about **REST API design, database optimization**.
-- 📫 Reach me at: **antssanjeewa94@gmail.com**.
+Software Engineer with 6+ years of professional experience building scalable,
+production-ready web applications and backend systems.
 
----
+I specialize in **Laravel, PHP, Vue.js, REST APIs, PostgreSQL, MySQL, and
+cloud-ready application architecture**.
 
-### 🛠 Tech Stack
-- **Backend:** PHP (Laravel), RESTful APIs, Python, Java (OCJP).
-- **Frontend:** Vue.js, React, JavaScript (ES6+), Tailwind CSS.
-- **Mobile:** Flutter (Full Stack).
-- **DevOps:** Docker, CI/CD, Linux Server Administration, AWS.
-- **Other:** IoT System Integration, Unity 3D (C#).
+- 🔭 Currently building and experimenting with modern full-stack applications and AI-assisted development workflows.
+- 💬 Ask me about **Laravel, Vue.js, REST API design, database optimization, PostgreSQL, authentication, and full-stack architecture**.
 
 ---
 
-### 📊 GitHub Stats
+## 🌐 Find Me Online
+
+- 🌐 **Portfolio:** https://ant-sameera-sanjeewa.vercel.app/
+- 💼 **LinkedIn:** https://linkedin.com/in/sameera-sanjeewa-ants
+- 🐙 **GitHub:** https://github.com/antssanjeewa
+- 📧 **Email:** antssanjeewa94@gmail.com
+
+---
+
+## 👨‍💻 About Me
+
+I'm **Sameera Sanjeewa**, a Senior Software Engineer from Sri Lanka with
+6+ years of experience developing production-grade web applications.
+
+My primary expertise is **Laravel and Vue.js**, with strong experience in
+REST API design, database architecture, PostgreSQL, MySQL, authentication,
+performance optimization, and cloud-ready application development.
+
+I enjoy designing clean backend architectures, building maintainable
+frontend systems, and solving real-world engineering problems.
+
+---
+
+## 🚀 Featured Projects
+
+### Donation Management System
+
+Financial management platform for recording donations, payments,
+projects, and automated financial reporting.
+
+**Tech:** Laravel, Vue.js, MySQL
+
+### sigreetings.com
+
+Dynamic Vesak greeting card generation platform built for creating
+and sharing personalized digital cards.
+
+**Tech:** Laravel, Vue.js
+
+### UPower Embedded System
+
+IoT-based embedded system interface integrating PHP with Arduino
+hardware.
+
+**Tech:** PHP, Arduino, IoT
+
+---
+
+## 🛠 Tech Stack
+
+### Backend
+
+- PHP
+- Laravel
+- REST APIs
+- Authentication & Authorization
+- MySQL
+- PostgreSQL
+
+### Frontend
+
+- Vue.js
+- JavaScript / TypeScript
+- React
+- Tailwind CSS
+
+### DevOps & Cloud
+
+- Docker
+- AWS
+- Linux
+- CI/CD
+
+### Mobile
+
+- Flutter
+
+### Other
+
+- Python
+- Java
+- IoT / Arduino
+- Unity / C#
+
+---
+
+## 📊 GitHub Stats
+
 <p align="left">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=antssanjeewa&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="Sameera's GitHub stats" height="170" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=antssanjeewa&layout=compact&theme=dracula&hide_border=true&count_private=true" alt="Top Languages" height="170" />
+  <img
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=antssanjeewa&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true"
+    alt="Sameera Sanjeewa's GitHub statistics"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=antssanjeewa&layout=compact&theme=dracula&hide_border=true&count_private=true"
+    alt="Sameera Sanjeewa's most used programming languages"
+    height="170"
+  />
 </p>
 
 ---
 
-### 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sameera-sanjeewa-ants)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/antssanjeewa)
+## 🤝 Let's Connect
 
----
+I'm open to discussing **software engineering, Laravel, Vue.js, backend
+architecture, REST APIs, database optimization, and full-stack development**.
 
-### 🌟 Featured Projects
-- **sigreetings.com**: A dynamic Vesak card generator (Laravel & Vue.js).
-- **Donation Management System**: Automated financial reporting platform.
-- **UPower Embedded System**: IoT interface using PHP and Arduino.
+🌐 **Portfolio:** https://ant-sameera-sanjeewa.vercel.app/
+
+💼 **LinkedIn:** https://linkedin.com/in/sameera-sanjeewa-ants
+
+📧 **Email:** antssanjeewa94@gmail.com
